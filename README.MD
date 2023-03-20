@@ -4,16 +4,18 @@ Api erp para empresa de manutenção de equipamentos.
 <h2>Como rodar o projeto</h2>
 
 <ol>
-	<li>Download python penúltima versão</li>
+	<li>Download python 3.11.2</li>
+	<pre><a href="https://www.python.org/downloads/">Baixar aqui</a></pre>
 	<li>Instalar python</li>
 	<li>Colocar python e pip como variável ambiente</li>
 	<li>Coloque o powerSheel como administrador</li>
-	<li>Rode esse comando no powerShell</li>
+	<li>Rode esse comando no powerShell:</li>
 	<pre>Set-ExecutionPolicy Unrestricted</pre>
 	<li>Criar pasta</li>
 	<li>Abrir pasta no vs code</li>
+	<pre>cd nome-do-projeto</pre>
 	<li>Abrir terminal do vs code</li>
-	<li>Rodar comando abaixo para criar ambiente virtual, tudo que for instalado dentro do ambiente virtual é instalado apenas na pasta do projeto</li>
+	<li>Criar ambiente</li>
 	<pre>python -m venv venv</pre>
 	<li>Ativar ambiente virtual</li>
 	<pre>.\venv\Scripts\activate</pre>
