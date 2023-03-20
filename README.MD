@@ -19,10 +19,12 @@ Api erp para empresa de manutenção de equipamentos.
 	<pre>
 		python -m venv venv
 	</pre>
-	<li>Ativar ambiente virtual</li>
+	<li>Ativar ambiente virtual
 	<pre>
 		.\venv\Scripts\activate
 	</pre>
+	</li>
+
 	<li>Instalar flask</li>
 	<pre>
 		pip install flask
