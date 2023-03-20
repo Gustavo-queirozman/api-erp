@@ -9,9 +9,7 @@ Api erp para empresa de manutenção de equipamentos.
 	<li>Colocar python e pip como variável ambiente</li>
 	<li>Coloque o powerSheel como administrador</li>
 	<li>Rode esse comando no powerShell</li>
-	<pre>
-		Set-ExecutionPolicy Unrestricted
-	</pre>
+	<pre>Set-ExecutionPolicy Unrestricted</pre>
 	<li>Criar pasta</li>
 	<li>Abrir pasta no vs code</li>
 	<li>Abrir terminal do vs code</li>
