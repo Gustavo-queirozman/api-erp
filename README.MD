@@ -14,19 +14,11 @@ Api erp para empresa de manutenção de equipamentos.
 	<li>Abrir pasta no vs code</li>
 	<li>Abrir terminal do vs code</li>
 	<li>Rodar comando abaixo para criar ambiente virtual, tudo que for instalado dentro do ambiente virtual é instalado apenas na pasta do projeto</li>
-	<pre>
-		python -m venv venv
-	</pre>
-	<li>Ativar ambiente virtual
-	<pre>
-		.\venv\Scripts\activate
-	</pre>
-	</li>
-
+	<pre>python -m venv venv</pre>
+	<li>Ativar ambiente virtual</li>
+	<pre>.\venv\Scripts\activate</pre>
 	<li>Instalar flask</li>
-	<pre>
-		pip install flask
-	</pre>
+	<pre>pip install flask</pre>
 </ol>
 
 <h2>Referência - Como configurar ambiente no windows 10</h2>
