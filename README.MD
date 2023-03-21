@@ -8,8 +8,7 @@ Api erp para empresa de manutenção de equipamentos.
 	<pre><a href="https://www.python.org/downloads/">Baixar aqui</a></pre>
 	<li>Instalar python</li>
 	<li>Colocar python e pip como variável ambiente</li>
-	<li>Coloque o powerSheel como administrador</li>
-	<li>Rode esse comando no powerShell:</li>
+	<li>Coloque o powerSheel como administrador e rode esse comando:</li>
 	<pre>Set-ExecutionPolicy Unrestricted</pre>
 	<li>Abrir cmd e rodar</li>
 	<pre>cd desktop & mkdir nome-do-projeto & cd nome-do-projeto</pre>
