@@ -1,16 +1,16 @@
-<h1>Api ERP</h1>
+<h1>Api erp</h1>
 Api erp para empresa de manutenção de equipamentos.
 
-<h2>Como rodar o projeto</h2>
+<h2>Como executar o projeto</h2>
 
 <ol>
 	<li>Download python 3.11.2</li>
 	<pre><a href="https://www.python.org/downloads/">Baixar aqui</a></pre>
 	<li>Instalar python</li>
 	<li>Colocar python e pip como variável ambiente</li>
-	<li>Coloque o powerSheel como administrador e rode esse comando:</li>
+	<li>Coloque o powerSheel como administrador e execute esse comando</li>
 	<pre>Set-ExecutionPolicy Unrestricted</pre>
-	<li>Abrir cmd e rodar</li>
+	<li>Abrir cmd e executar</li>
 	<pre>cd desktop & mkdir nome-do-projeto & cd nome-do-projeto</pre>
 	<li>Ainda no cmd criar ambiente</li>
 	<pre>python -m venv venv</pre>
