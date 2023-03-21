@@ -13,9 +13,9 @@ Api erp para empresa de manutenção de equipamentos.
 	<pre>Set-ExecutionPolicy Unrestricted</pre>
 	<li>Abrir cmd e rodar</li>
 	<pre>cd desktop & mkdir nome-do-projeto & cd nome-do-projeto</pre>
-	<li>Ainda no terminal criar ambiente</li>
+	<li>Ainda no cmd criar ambiente</li>
 	<pre>python -m venv venv</pre>
-	<li>Ainda no terminal ativar ambiente virtual</li>
+	<li>Ainda no cmd ativar ambiente virtual</li>
 	<pre>.\venv\Scripts\activate</pre>
 	<li>Instalar flask</li>
 	<pre>pip install flask</pre>
