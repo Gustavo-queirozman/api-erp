@@ -11,13 +11,11 @@ Api erp para empresa de manutenção de equipamentos.
 	<li>Coloque o powerSheel como administrador</li>
 	<li>Rode esse comando no powerShell:</li>
 	<pre>Set-ExecutionPolicy Unrestricted</pre>
-	<li>Criar pasta</li>
-	<li>Abrir pasta no vs code</li>
-	<pre>cd nome-do-projeto</pre>
-	<li>Abrir terminal do vs code</li>
-	<li>Criar ambiente</li>
+	<li>Abrir cmd e rodar</li>
+	<pre>cd desktop & mkdir nome-do-projeto & cd nome-do-projeto</pre>
+	<li>Ainda no terminal criar ambiente</li>
 	<pre>python -m venv venv</pre>
-	<li>Ativar ambiente virtual</li>
+	<li>Ainda no terminal ativar ambiente virtual</li>
 	<pre>.\venv\Scripts\activate</pre>
 	<li>Instalar flask</li>
 	<pre>pip install flask</pre>
